@@ -1,0 +1,4 @@
+openai
+edge-tts
+openai-whisper
+python-telegram-bot
